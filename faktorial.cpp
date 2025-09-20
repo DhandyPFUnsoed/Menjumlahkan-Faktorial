@@ -22,7 +22,8 @@ int main(){
         } i++;
     }
     // Hasil
-    cout << hasil << endl;
+    cout << hasil;
 
     return 0;
+
 }
